@@ -3,3 +3,9 @@ function sayHello(){
 }
 
 sayHello();
+
+function feature2() {
+    console.log('Feature 2')
+}
+
+feature2();
